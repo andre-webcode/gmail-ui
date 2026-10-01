@@ -5,7 +5,7 @@ import { colors } from "@/styles/colors";
 export function MenuButton(){
     return(
         <Pressable>
-            <MaterialIcons name="email" size={22} color={colors.white}/>
+            <MaterialIcons name="menu" size={22} color={colors.white}/>
         </Pressable>
 
     )
